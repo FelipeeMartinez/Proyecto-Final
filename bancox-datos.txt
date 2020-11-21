@@ -1,0 +1,7 @@
+5
+1535263,Sebastian,1000000,1,consignacion
+5267349,Daniel,5000,10,retiro
+6367480,Carlos,2000,5,retiro
+6367481,Maria,2000,10,retiro
+6367482,Juliana,2000,1,retiro
+6367484,Lucas,2000,1,retiro
